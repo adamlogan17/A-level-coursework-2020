@@ -1,1 +1,0 @@
-To change the user view go to the Main Script and change the 'cust' varaible to whichever class you would like to view. 

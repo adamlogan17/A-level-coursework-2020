@@ -17,7 +17,6 @@ import os
 import pickle
 
 import shutil
-
         
 def backup_periodic_pickle(file_to_backup,drctory_of_backup):
     '''This function will check when the previous backup occured and if it was over a month
