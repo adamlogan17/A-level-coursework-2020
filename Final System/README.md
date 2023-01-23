@@ -15,14 +15,15 @@ To start the application run 'Main_Script.py'
 1. Navigate to this folder, ```Final System```, within the command line
 2. Execute the following commands:
    ```
-   $venv\scripts\activate
-   $python Main_Script.py
+   $ python -m venv venv
+   $ venv\scripts\activate
+   $ python Main_Script.py
    ```
-3. To exit the virtual environment use the command ```$deactivate```
+3. To exit the virtual environment use the command ```$ deactivate```
    
 Alternatively it is possible to install the dependencies yourself either by using the commands within the [Dependencies](#dependencies) section or by using the requirements.txt included within this folder (example command below) 
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ### Login ###
